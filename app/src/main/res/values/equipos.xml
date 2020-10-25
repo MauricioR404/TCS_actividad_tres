@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="app_name">Fragmentos_comunicaciones_0120</string-array>
+    <string-array name="equipos">
+        <item>Athletic de Bilbao</item>
+        <item>Atlético de Madrid</item>
+        <item>Barcelona</item>
+        <item>Betis</item>
+    </string-array>
+    <string-array name="descripciones">
+        <item>El athetic de club es de fulbol</item>
+        <item>El Atlético de club es de fulbol</item>
+        <item>El Barcelona de club es de fulbol</item>
+        <item>El Betis de club es de fulbol</item>
+    </string-array>
+</resources>
